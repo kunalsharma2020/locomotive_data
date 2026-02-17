@@ -1,0 +1,14 @@
+pymongo
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+streamlit
+folium
+streamlit-folium
+scipy
+tqdm
+joblib
