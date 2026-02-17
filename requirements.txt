@@ -13,4 +13,5 @@ scipy
 tqdm
 joblib
 altair==4.2.2
+imghdr
 
