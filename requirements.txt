@@ -12,4 +12,5 @@ streamlit-folium
 scipy
 tqdm
 joblib
-altair
+altair==4.2.2
+
