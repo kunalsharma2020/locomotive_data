@@ -3,16 +3,18 @@ pandas
 numpy
 matplotlib
 seaborn
-plotly
+
 scikit-learn
 xgboost
-streamlit
+
 folium
 streamlit-folium
 scipy
 tqdm
 joblib
 altair==4.2.2
-
+streamlit==1.31.1
+plotly==5.20.0
+imghdr
 
 
